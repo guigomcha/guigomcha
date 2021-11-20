@@ -2,7 +2,7 @@
 
 **Stackoverflow** | **GitHub Stats** | **Recently Used Programming Languages**
 --- | --- | ---
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13653506)](https://stackoverflow.com/users/6558042/omid-nikrah) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigomcha)](https://github.com/anuraghazra/github-readme-stats) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigomcha&hide=TeX)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13653506)](https://stackoverflow.com/users/6558042/omid-nikrah) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigomcha&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigomcha&hide=TeX&count_private=true&layout=compact)
 
 
 
@@ -28,4 +28,3 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
