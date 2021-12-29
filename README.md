@@ -2,7 +2,7 @@
 
 **Stackoverflow** | **GitHub Stats** | **Recently Used Programming Languages**
 --- | --- | ---
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13653506)](https://stackoverflow.com/users/6558042/omid-nikrah) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigomcha&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigomcha&hide=TeX&count_private=true&layout=compact)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13653506)](https://stackoverflow.com/users/6558042/omid-nikrah) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigomcha&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigomcha&hide=TeX&count_private=true&layout=compact&langs_count=10)
 
 
 
@@ -16,7 +16,8 @@
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
