@@ -28,4 +28,5 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Python Certification](./pcap-31-03-pcap-certified-associate-in-python-programming.png)
+<img src="./pcap-31-03-pcap-certified-associate-in-python-programming.png" alt="PCAP Associate" width="180"/><img src="./lfs250-kubernetes-and-cloud-native-essentials.png" alt="k8s essentials" width="180"/>
+
