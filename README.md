@@ -28,5 +28,5 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<img src="./pcap-31-03-pcap-certified-associate-in-python-programming.png" alt="PCAP Associate" width="180"/><img src="kcna-kubernetes-and-cloud-native-associate.png" alt="KCNA" width="180"/><img src="./lfs250-kubernetes-and-cloud-native-essentials.png" alt="k8s essentials" width="180"/>
+<img src="./pcap-31-03-pcap-certified-associate-in-python-programming.png" alt="PCAP Associate" width="180"/><img src="kcna-kubernetes-and-cloud-native-associate.png" alt="KCNA" width="180"/><img src="./cka-certified-kubernetes-administrator.png" alt="k8s CKA" width="180"/>
 
