@@ -2,8 +2,7 @@
 
 **Stackoverflow** | **GitHub Stats** | **Recently Used Programming Languages**
 --- | --- | ---
-![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13653506) | ![GitHub stats](https://github-readme-stats-git-master-guigomchas-projects.vercel.app/api?username=guigomcha&count_private=true) | ![Top Langs](https://github-readme-stats-git-master-guigomchas-projects.vercel.app/api/top-langs/?username=guigomcha&count_private=true&layout=compact&langs_count=5&exclude_repo=kaa,centroecologicogaia&role=OWNER,ORGANIZATION_MEMBER&hide=java,%20javascript,HTML,PHP,TypeScript)
-
+![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13653506) | ![GitHub stats](https://github-readme-stats-git-master-guigomchas-projects.vercel.app/api?username=guigomcha&count_private=true) | ![Top Langs](https://github-readme-stats-git-master-guigomchas-projects.vercel.app/api/top-langs/?username=guigomcha&count_private=true&layout=compact&langs_count=5&exclude_repo=kaa,centroecologicogaia&role=OWNER,ORGANIZATION_MEMBER&hide=java,javascript,PHP,TypeScript,Groovy,Kotlin,less,smarty,vue,HTML)
 
 
 - 🔭 I’m currently working on R&D projects related to 5G and beyond as a Software Engineer. Mainly K8s DevOps and Goland and Python Backend, architecture design and implementation. Would love to work again in the Smart Energy sector.
